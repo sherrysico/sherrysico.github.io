@@ -2,7 +2,7 @@
 layout: post
 title: 用 Jekyll 和 GitHub 创建个人博客
 categories: [blog ]
-tags: [Jekyll, GitHub，]
+tags: [Jekyll, GitHub,]
 description: 
 ---
 # 用 Jekyll 和 GitHub 创建个人博客
